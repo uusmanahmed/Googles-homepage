@@ -1,0 +1,83 @@
+div {
+  display: ;
+}
+
+#navbar {
+  width: 100%;
+  display: block;
+  height: 45px;
+  padding: 5px;
+  background-color: #80B2FF;
+  Font-size: 20px;
+}
+
+p {
+  margin: 1px;
+  color: white;
+  position: absolute;
+}
+
+ul {
+  margin: 1px;
+  list-style-type: none;
+  float: right;
+  position: relative;
+  color: white
+}
+
+li {
+  font-size: 15px;
+  display: inline;
+  margin: 0px 5px;
+  padding: 0px 5px;
+}
+
+.center {
+  width: 100%;
+  text-align: center;
+  position: absolute;
+  display: block;
+  top: 180px;
+}
+
+input {
+  width: 500px;
+  margin: 15px 0px 15px 0px
+}
+
+button {
+  font-weight: bold;
+}
+
+#footer {
+  margin-top: 40px;
+  width: 100%;
+  background-color: #80B2FF;
+  Font-size: 20px;
+  position: absolute;
+  padding: 5px;
+  bottom:0;
+  height: auto;
+
+
+}
+
+a {
+  font-size: 15px;
+  text-decoration: none;
+  color: white;
+  position: relative;
+  margin:15px;
+
+
+}
+
+#rfoot {
+  float: right;
+  position: relative;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+}
